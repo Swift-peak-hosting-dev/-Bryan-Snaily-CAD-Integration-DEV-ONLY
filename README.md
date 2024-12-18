@@ -1,4 +1,5 @@
-###!!!!!!!!PLEASE NOTE THAT THIS SCRIPT HAS KNOWN ISSUES THAT ARE UNFORTUNATELY TAKING A LONGER TIME THAN WE THOUGHT TO FIX. PLEASE NOTE WE DO NOT RECOMMEND IT FOR LIVE SERVERS AT THIS TIME.!!!!!!!!!!###
+⚠️ Important Notice:
+This script currently has known issues that are taking longer than anticipated to resolve. We strongly advise against using it on live servers at this time. Thank you for your understanding and patience.
 
 
 
